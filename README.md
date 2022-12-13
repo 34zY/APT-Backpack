@@ -16,7 +16,7 @@ Most common used CVE's by APT, legitimate RAT and other tools used by adversary
 - CVE-2021-26858 (Microsoft Exchange Server)                 **RCE**
 - CVE-2021-26865 (Microsoft Exchange Server)                 **RCE**
 - CVE-2021-36260 (Hikvision)                                 **Command Injection**
-- CVE-2021-40539 (ManageEngine ADSelfService Plus)           **API Authentication bypass** -> **RCE** 
+- CVE-2021-40539 (ManageEngine ADSelfService Plus)           **API Auth bypass** -> **RCE** 
 - CVE-2021-41773 (Apache HTTP Server 2.4.49)                 **Path Traversal**
 - CVE-2021-42237 (Sitecore XP 7.5)                           **Deserialisation** -> **RCE**
 - CVE-2021-44228 (Apache Log4j)                              **RCE**
