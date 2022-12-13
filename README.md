@@ -44,6 +44,7 @@ Most common used CVE's by APT, legitimate RAT and other tools used by adversary
 
 - Office document with warnings (enable content)
 
-### 
+### credits
+
 
 *Use it rightly, i'm not resposible about any bad use of this pack*
