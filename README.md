@@ -30,7 +30,6 @@ Most common used CVE's by APT, legitimate RAT and other tools used by adversary
 
 - Ammyy admin client v3 (windows) (This is caught by many defenses)
 - Ngrok client (windows/linux)
-- Teamviewer client (windows/linux)
 
 ## Exploitation 
 
