@@ -46,6 +46,6 @@ Most common used CVE's by APT, legitimate RAT and other tools used by adversary
 
 ## Reverse shell
 
-Ncat OPENBSD (Not caught by Microsoft Defender EDR)
+- Ncat OPENBSD (Not caught by Microsoft Defender EDR)
 
 *Use it rightly, i'm not resposible about any bad use of this pack*
